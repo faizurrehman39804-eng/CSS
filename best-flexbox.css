@@ -10,9 +10,9 @@
     
     .container{
       display: flex;
-      align-items: center;
+      /* align-items: center; */
       justify-content: space-evenly;
-      gap: 20px;
+      /* gap: 20px; */
     }
 
     .box{
@@ -25,10 +25,19 @@
       background: red;
     }
 
-    .box2{
+   .box2{
       background: blue;
     }
 
     .box3{
       background: green;
     }
+    .box4{
+      background: yellow;
+    }
+    .box5{
+          background: purple;
+        }
+    .box6{
+          background: orange;
+        }
