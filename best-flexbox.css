@@ -13,8 +13,9 @@
       /* align-items: center; */
       justify-content: space-evenly;
       /* gap: 20px; */
+      justify-content: center;
+      flex-direction: column;  
     }
-
     .box{
       width: 150px;
       height: 150px;
