@@ -1,1 +1,65 @@
-display flex
+FLEX-BOX:
+      1. display: flex;
+          Use:- display: flex; ka use box ko idhar udhar move karne, ek line ma lane or seedha karne ka lia hotha ha.
+
+      2. flex-direction
+         A: Use:- Items kis direction ma ayengha
+         B: row
+         C: column
+         d: row-reverse
+         F: column-reverse
+
+      3. justify-content
+        Horizontal alignment karta ha
+        A: center
+        B: start
+        C: end
+        d: space-between
+        F: space-around
+        G: space-evenly
+
+      4. align-items
+        A: Vertical alignment karta ha
+        B: center
+        C: start
+        D: end
+        E: stretch
+
+      5. align-content
+        A: Multiple rows ko align karta ha
+        B: center
+        C: start
+        D: end
+        E: space-between
+        F: space-around
+
+      6. flex-wrap
+        A: Items next line ma ja saktha ha
+        B: wrap
+        C: nowrap
+        D: wrap-reverse
+
+
+
+
+
+
+
+
+A:
+B:
+C:
+D:
+E:
+F:
+G:
+H:
+I:
+J:
+K:
+L:
+M:
+N:
+O:
+P:
+Q:
