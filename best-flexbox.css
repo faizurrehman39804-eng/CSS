@@ -7,12 +7,28 @@
     body{
       background: #222;
     }
-    /*  */
+    nav{
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      background: #000000;
+      color: #fff;  
+    }
+
+
+
+
+
+
+
     .container{
       display: flex;
       flex-direction: row;/* Culam ,row ,row-reverse, column, column-reverse */
-      justify-content: space-around;    /*  center,start,end,space-between,/*
-      align-items: center;
+      justify-content: space-around;    /*  center,start,end,space-between,*/
+      flex-wrap: wrap; /* nowrap,wrap,wrap-reverse */
+      /* align-items: start;   align-content: center; */
+      
       /* gap: 20px; */ 
       /* justify-content: center; */
 
